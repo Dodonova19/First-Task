@@ -1,4 +1,4 @@
-﻿namespace lab_1
+﻿namespace First_Task
 {
     public class Logic
     {
